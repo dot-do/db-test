@@ -1,0 +1,2 @@
+{"$id":"gvD","$type":"Task","data":"{\"title\":\"Test task from CLI\",\"status\":\"open\",\"priority\":1}","_created_at":"2025-12-23T11:32:02.871Z","_updated_at":"2025-12-23T11:32:02.871Z"}
+{"$id":"Qyj","$type":"Issue","data":"{\"title\":\"E2E test issue\",\"description\":\"Testing webhooks\"}","_created_at":"2025-12-23T11:32:02.900Z","_updated_at":"2025-12-23T11:32:02.900Z"}
